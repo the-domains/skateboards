@@ -1,14 +1,14 @@
 layout_spectrum: 0.044783446472138166
-typography_spectrum: 0.39958685799501836
+typography_spectrum: 0.08058762643486261
 color:
-  brandStrength: 0.47414421290159225
-  lightness: 0.7883647507987916
-  saturation: 0.2719765924848616
-  rhythmicContrast: 0.8838938132394105
+  brandStrength: 0.09011300210841
+  lightness: 0.5819600224494934
+  saturation: 0.6726414111908525
+  rhythmicContrast: 0.8221514099277556
   brandColors:
-    - '#88A825'
-    - '#35203B'
-    - '#911146'
-    - '#CF4A30'
-    - '#ED8C2B'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: Skateboards
