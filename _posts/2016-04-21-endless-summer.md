@@ -1,12 +1,12 @@
 ---
 description: ''
-dateModified: '2016-04-21T03:54:46.102Z'
+dateModified: '2016-06-05T02:57:07.798Z'
 title: Endless Summer
 author: []
-datePublished: '2016-04-21T03:55:39.966Z'
+datePublished: '2016-06-05T02:57:08.230Z'
 isBasedOnUrl: 'https://source.unsplash.com/random'
 sourcePath: _posts/2016-04-21-endless-summer.md
-published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
