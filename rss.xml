@@ -4,28 +4,21 @@
         <description><![CDATA[Skateboards]]></description>
         <link>https://thegrid.ai/skateboards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 12:23:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skateboards/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Concrete Wave]]></title>
-            <description><![CDATA[<article><h1>Concrete Wave</h1><p>The X games 2016 are going on right now. It’s pretty cool.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af4e6fb6-f22b-4cf4-b70e-5311f7333748.jpg"></article>]]></description>
-            <link>https://source.unsplash.com/random</link>
-            <guid isPermaLink="false">d58ca402-5415-4f03-938f-a7773bb60fc7</guid>
-            <pubDate>Sun, 05 Jun 2016 03:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Endless Summer]]></title>
-            <description><![CDATA[<article><h1>Endless Summer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b0fb3b-7a5c-4ec8-851a-98e2777b97f5.jpg"></article>]]></description>
-            <link>https://source.unsplash.com/random</link>
-            <guid isPermaLink="false">960316c8-e69a-41f1-b0d8-2a9c3902d91a</guid>
-            <pubDate>Sun, 05 Jun 2016 03:02:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hipster as Fuck]]></title>
             <description><![CDATA[<article><h1>Hipster as Fuck</h1><p>This skateboard will never see concrete. It’s only for decoration.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c4f1b61-20b0-4282-b63f-475490275cb4.jpg"></article>]]></description>
             <link>https://source.unsplash.com/random</link>
             <guid isPermaLink="false">4842987e-86e4-4817-871d-88d3662842ec</guid>
-            <pubDate>Sun, 05 Jun 2016 02:55:26 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 02:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concrete Wave]]></title>
+            <description><![CDATA[<article><h1>Concrete Wave</h1><p>The X games 2016 are going on right now. It’s pretty cool.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af4e6fb6-f22b-4cf4-b70e-5311f7333748.jpg"></article>]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">d58ca402-5415-4f03-938f-a7773bb60fc7</guid>
+            <pubDate>Sun, 05 Jun 2016 02:38:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kelly's Wave]]></title>
@@ -54,6 +47,13 @@
             <link>https://www.youtube.com/watch?v=0yBdQC7-Xa0</link>
             <guid isPermaLink="false">bb500d8f-912e-461e-9454-36faf58bad10</guid>
             <pubDate>Thu, 21 Apr 2016 03:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Endless Summer]]></title>
+            <description><![CDATA[<article><h1>Endless Summer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b0fb3b-7a5c-4ec8-851a-98e2777b97f5.jpg"></article>]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">960316c8-e69a-41f1-b0d8-2a9c3902d91a</guid>
+            <pubDate>Thu, 21 Apr 2016 03:55:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
