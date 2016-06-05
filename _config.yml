@@ -1,15 +1,15 @@
-layout_spectrum: 0.07223030366003513
-typography_spectrum: 0.34266382083296776
+layout_spectrum: 0.810516051016748
+typography_spectrum: 0.5344562663231045
 color:
-  brandStrength: 0.02401860849931836
-  lightness: 0.12680596462450922
-  saturation: 0.22030384629033506
-  rhythmicContrast: 0.8841032339259982
+  brandStrength: 0.43484240118414164
+  lightness: 0.12674925872124732
+  saturation: 0.23285172507166862
+  rhythmicContrast: 0.30452391668222845
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Skateboards
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png'
