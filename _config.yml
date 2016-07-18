@@ -1,4 +1,3 @@
-layout_spectrum: 0.810516051016748
 typography_spectrum: 0.5344562663231045
 color:
   brandStrength: 0.43484240118414164
@@ -11,5 +10,12 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.810516051016748
 name: Skateboards
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png'
+navigation:
+  - id: 'https://boostedboards.com/'
+    url: 'https://boostedboards.com/'
+    name: Boosted
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
