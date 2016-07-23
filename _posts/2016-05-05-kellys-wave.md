@@ -10,7 +10,16 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: 'Production: Aether Films (aetherfilms.com) Director: Andrew Mackenzie; Producers: Kyle Bullington & Davis DiLillo; Executive Producers: John Moore & Noah Grimmett; Camera I: Gordon Yould ; Camera II: Seth Naugle; Aerial Cinematography: Davis DiLillo, Kyle Bullington, Andrew Mackenzie Water Cinematography: Daren Vinson Crawford; AC Camera I: Brooks Burgoon; AC Camera II: Jeff Ball, AC Camera III: Josh Hill; Sound Mixer: Emett Casey Production Coordinator: Dana Kurth; DIT: Bruce Schultz; Editing: Gordon Yould & Andrew Mackenzie; Assistant Editor: Erick Wilczynski; Color: Seth Naugle; Music: DARKSIDE'
+description: >-
+  Production: Aether Films (aetherfilms.com) Director: Andrew Mackenzie;
+  Producers: Kyle Bullington & Davis DiLillo; Executive Producers: John Moore &
+  Noah Grimmett; Camera I: Gordon Yould ; Camera II: Seth Naugle; Aerial
+  Cinematography: Davis DiLillo, Kyle Bullington, Andrew Mackenzie Water
+  Cinematography: Daren Vinson Crawford; AC Camera I: Brooks Burgoon; AC Camera
+  II: Jeff Ball, AC Camera III: Josh Hill; Sound Mixer: Emett Casey Production
+  Coordinator: Dana Kurth; DIT: Bruce Schultz; Editing: Gordon Yould & Andrew
+  Mackenzie; Assistant Editor: Erick Wilczynski; Color: Seth Naugle; Music:
+  DARKSIDE
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/149396475'
     type: ios
@@ -38,15 +47,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/149396475'
-title: "Kelly's Wave"
-datePublished: '2016-05-05T21:23:25.596Z'
-dateModified: '2016-04-23T06:31:21.530Z'
-starred: false
+title: Kelly's Wave
+datePublished: '2016-07-23T03:39:55.141Z'
+dateModified: '2016-07-23T03:39:54.722Z'
 sourcePath: _posts/2016-05-05-kellys-wave.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: kellys-wave/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
