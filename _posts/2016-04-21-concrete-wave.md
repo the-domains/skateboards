@@ -1,15 +1,15 @@
 ---
 description: The X games 2016 are going on right now. It’s pretty cool.
-dateModified: '2016-06-05T03:13:36.086Z'
+dateModified: '2016-07-23T03:40:05.113Z'
 title: Concrete Wave
 author: []
-datePublished: '2016-06-05T03:13:39.335Z'
-isBasedOnUrl: 'https://source.unsplash.com/random'
+datePublished: '2016-07-23T03:40:05.502Z'
 sourcePath: _posts/2016-04-21-concrete-wave.md
+hasPage: true
+publisher: {}
+via: {}
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: concrete-wave/index.html
 _type: MediaObject
 
 ---
