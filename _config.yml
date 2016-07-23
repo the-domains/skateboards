@@ -17,5 +17,9 @@ navigation:
     url: 'https://boostedboards.com/'
     name: Boosted
     type: external
+  - id: e70b4426-0338-498d-8aec-c04e48a42865
+    url: 2016-05-05-kellys-wave.html
+    name: Kelly's Wave
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
