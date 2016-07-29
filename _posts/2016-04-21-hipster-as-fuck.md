@@ -1,9 +1,9 @@
 ---
 description: This skateboard will never see concrete. It’s only for decoration.
-dateModified: '2016-07-26T17:44:16.381Z'
+dateModified: '2016-07-29T04:59:51.119Z'
 title: Hipster as Fuck
 author: []
-datePublished: '2016-07-26T17:44:16.813Z'
+datePublished: '2016-07-29T04:59:51.603Z'
 sourcePath: _posts/2016-04-21-hipster-as-fuck.md
 hasPage: true
 publisher:
