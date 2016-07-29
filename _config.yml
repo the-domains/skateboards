@@ -13,17 +13,15 @@ color:
 layout_spectrum: 0.810516051016748
 name: Skateboards
 navigation:
-  - id: 'https://boostedboards.com/'
+  - name: Boosted
     url: 'https://boostedboards.com/'
-    name: Boosted
     type: external
-  - id: e70b4426-0338-498d-8aec-c04e48a42865
-    url: 2016-05-05-kellys-wave.html
-    name: Kelly's Wave
+  - name: Kelly's Wave
+    id: e70b4426-0338-498d-8aec-c04e48a42865
     type: content
-  - id: d58ca402-5415-4f03-938f-a7773bb60fc7
-    url: 2016-04-21-concrete-wave.html
-    name: Concrete Wave
+  - name: Concrete Wave
+    id: d58ca402-5415-4f03-938f-a7773bb60fc7
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
+title: Skateboarding is Not a Crime
