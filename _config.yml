@@ -22,6 +22,9 @@ navigation:
   - name: Concrete Wave
     id: d58ca402-5415-4f03-938f-a7773bb60fc7
     type: content
+  - name: Hipster as Fuck
+    id: 4842987e-86e4-4817-871d-88d3662842ec
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
 title: Skateboarding is Not a Crime
