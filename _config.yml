@@ -16,13 +16,13 @@ navigation:
   - name: Boosted
     url: 'https://boostedboards.com/'
     type: external
-  - name: Kelly's Wave
+  - name: Kelly
     id: e70b4426-0338-498d-8aec-c04e48a42865
     type: content
-  - name: Concrete Wave
+  - name: Kelly
     id: d58ca402-5415-4f03-938f-a7773bb60fc7
     type: content
-  - name: Hipster as Fuck
+  - name: Kelly
     id: 4842987e-86e4-4817-871d-88d3662842ec
     type: content
 favicon: >-
