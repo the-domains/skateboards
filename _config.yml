@@ -1,16 +1,16 @@
 typography_spectrum: 0.5344562663231045
 color:
-  brandStrength: 0.43484240118414164
-  lightness: 0.12674925872124732
-  saturation: 0.23285172507166862
-  rhythmicContrast: 0.30452391668222845
+  brandStrength: 0.2995454298797995
+  lightness: 0.9784989259205759
+  saturation: 0.1688914366532117
+  rhythmicContrast: 0.25271741580218077
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.810516051016748
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.6431678966619074
 name: Skateboards
 navigation:
   - name: Boosted
@@ -29,3 +29,5 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
 title: Concrete Waves
 description: Skateboarding is Not a Crime
+coverPrefs:
+  filter: false
