@@ -20,6 +20,9 @@ navigation:
   - name: Hipster as Fuck
     id: 4842987e-86e4-4817-871d-88d3662842ec
     type: content
+  - name: Test
+    url: 'http://g.recordit.co/rqOnJYqI4H.gif'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
 title: Concrete Waves
