@@ -1,16 +1,16 @@
-typography_spectrum: 0.5344562663231045
+typography_spectrum: 0.04519000509753823
 color:
-  brandStrength: 0.2995454298797995
-  lightness: 0.9784989259205759
-  saturation: 0.1688914366532117
-  rhythmicContrast: 0.25271741580218077
+  brandStrength: 0.8464813521131873
+  lightness: 0.07068285276181996
+  saturation: 0.5700502719264477
+  rhythmicContrast: 0.8017406587023288
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.6431678966619074
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.8291248988825828
 name: Skateboards
 style: the-composer
 navigation:
