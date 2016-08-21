@@ -12,7 +12,6 @@ color:
     - '#BD8D46'
 layout_spectrum: 0.8291248988825828
 name: Skateboards
-style: the-composer
 navigation:
   - name: Boosted
     url: 'https://boostedboards.com/'
@@ -20,7 +19,7 @@ navigation:
   - name: Hipster as Fuck
     id: 4842987e-86e4-4817-871d-88d3662842ec
     type: content
-  - name: Test
+  - name: Skate
     url: 'http://g.recordit.co/rqOnJYqI4H.gif'
     type: external
 favicon: >-
