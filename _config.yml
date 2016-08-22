@@ -16,9 +16,6 @@ navigation:
   - name: Boosted
     url: 'https://boostedboards.com/'
     type: external
-  - name: Hipster as Fuck
-    id: 4842987e-86e4-4817-871d-88d3662842ec
-    type: content
   - name: Skate
     url: 'http://g.recordit.co/rqOnJYqI4H.gif'
     type: external
