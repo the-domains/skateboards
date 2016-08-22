@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T05:58:36.692Z'
+datePublished: '2016-08-22T06:00:31.006Z'
 sourcePath: _posts/2016-04-21-hipster-as-fuck.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T05:58:36.243Z'
+dateModified: '2016-08-22T06:00:30.867Z'
 title: Hipster as Fuck
 publisher:
   name: Jordy
