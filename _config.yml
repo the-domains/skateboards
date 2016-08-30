@@ -16,9 +16,6 @@ navigation:
   - name: Boosted
     url: 'https://boostedboards.com/'
     type: external
-  - name: Skate
-    url: 'http://g.recordit.co/rqOnJYqI4H.gif'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f88f9a2-92e1-429d-8c53-39bac8337455.png
 title: Concrete Waves
