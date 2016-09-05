@@ -1,9 +1,9 @@
 ---
 description: The X games 2016 are going on right now. It’s pretty cool.
-dateModified: '2016-07-23T03:40:05.113Z'
+dateModified: '2016-09-02T06:21:06.840Z'
 title: Concrete Wave
 author: []
-datePublished: '2016-07-23T03:40:05.502Z'
+datePublished: '2016-09-02T06:21:07.222Z'
 sourcePath: _posts/2016-04-21-concrete-wave.md
 hasPage: true
 publisher: {}
