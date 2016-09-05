@@ -20,7 +20,10 @@ keywords:
   - caseyneistat
   - andrewschrock
   - skate
-description: 'Experience the joy of riding every day with Boosted boards, powerful, portable electric longboards. The future of transportation has arrived. Learn more at http://boostedboards.com/.'
+description: >-
+  Experience the joy of riding every day with Boosted boards, powerful, portable
+  electric longboards. The future of transportation has arrived. Learn more at
+  http://boostedboards.com/.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=0yBdQC7-Xa0&feature=applinks'
@@ -61,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=0yBdQC7-Xa0'
 title: Skate Electric
-datePublished: '2016-04-21T03:57:23.680Z'
-dateModified: '2016-04-19T22:46:24.889Z'
+datePublished: '2016-09-02T06:21:07.226Z'
+dateModified: '2016-09-02T06:21:06.840Z'
 sourcePath: _posts/2016-04-21-skate-electric.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
