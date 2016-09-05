@@ -48,8 +48,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Kelly's Wave
-datePublished: '2016-07-23T03:39:55.141Z'
-dateModified: '2016-07-23T03:39:54.722Z'
+datePublished: '2016-09-02T06:21:13.274Z'
+dateModified: '2016-09-02T06:21:12.962Z'
 sourcePath: _posts/2016-05-05-kellys-wave.md
 hasPage: true
 via: {}
