@@ -10,14 +10,18 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: 'Find us on Kickstarter.com - http://kck.st/TGBiD2 - Light enough to carry anywhere, fast enough to go everywhere. A revolutionary combination of portability and power. Thanks to our friends at Alchemy Creative, http://alchemycreative.tv/, who made the video for us.'
+description: >-
+  Find us on Kickstarter.com - http://kck.st/TGBiD2 - Light enough to carry
+  anywhere, fast enough to go everywhere. A revolutionary combination of
+  portability and power. Thanks to our friends at Alchemy Creative,
+  http://alchemycreative.tv/, who made the video for us.
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=IWV8irg64oM'
-title: "Introducing Boosted Boards - The World's Lightest Electric Vehicle"
-datePublished: '2016-04-21T03:57:23.731Z'
-dateModified: '2016-04-19T22:42:26.417Z'
+title: Introducing Boosted Boards - The World's Lightest Electric Vehicle
+datePublished: '2016-09-02T06:21:07.227Z'
+dateModified: '2016-09-02T06:21:06.840Z'
 sourcePath: _posts/2016-04-21-introducing-boosted-boards-the-worlds-lightest-electric-v.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
